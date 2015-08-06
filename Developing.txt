@@ -1,0 +1,8 @@
+SSMS Plugin
+
+
+Use this guide:
+http://solutioncenter.apexsql.com/the-art-and-science-of-creating-ssms-2012-add-ins-part-1-laying-the-foundation/
+
+Another guide:
+http://blogs.microsoft.co.il/shair/2008/07/28/how-to-create-sql-server-management-studio-addin/
